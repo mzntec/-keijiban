@@ -1,0 +1,149 @@
+header img{
+    width: 300px;  
+    height: auto;
+}
+
+header ul{
+    width:100%;
+    height:50px;
+    background-color: black;
+}
+
+header li{
+    float:left;
+    color:white;
+    list-style-type:none;
+    padding-left:10px;
+    line-height:55px;
+    margin-left:35px;
+}
+
+
+.left{ 
+    float:left;
+    width:70%;
+    margin-bottom:40px;
+}
+
+.title{
+    margin-top:5px;
+    font-size:30px;
+    border-bottom:2px solid gray;
+    border-left:4px solid black;
+}
+
+.text{
+    border:1px solid #dfdfdf;
+    padding:5px;
+    color:#999;
+    background:#fff;
+}
+
+form div{
+    padding:10px; 
+}
+
+form{
+    margin:20px auto 0px;
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    border-radius:10px;
+    width:100%;
+}
+
+h1{
+    margin :0 auto;
+    margin-top:20px;
+    margin-bottom:20px;
+    border-left:4px solid red;
+    background-color:#f1f1f1;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:15px;
+    width:98%;
+    font-size:20px;
+}
+
+.submit{
+    border:1px solid lightgray;
+    padding:4px 10px;
+    color:white;
+    background-color:#bfbfbf;
+    border-radius:5px;
+    border-bottom :solid 2px gray;
+}
+
+.kiji{
+    margin:20px auto 0px;
+    padding-bottom:20px;
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    border-radius:10px;
+    width:100%;
+}
+
+h3{
+    margin :0 auto;
+    margin-top:10px;
+    margin-bottom:20px;
+    border-bottom:1px dotted black;
+    background-color:#f1f1f1;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:20px;
+    width:98%;
+    font-size:20px;
+}
+
+.contents{
+    font-size:19px;
+    margin-top:10px;
+    margin-bottom:10px;
+    padding-left:25px;
+}
+
+.handlename{
+    padding-left:25px;
+    font-size:13px;
+    margin-top:10px;
+
+}
+
+
+.right{
+    float:right;
+    width:30%;
+    margin-bottom:40px;
+}
+
+ul,li{
+    list-style-type:none;
+}
+
+.right > ul > li{
+    font-size: 20px;
+    border-bottom:2px dotted gray ;
+    font-weight:bold;
+    padding-left:2px;
+    margin-top:20px;
+}
+
+.right_li li{
+    font-size: 15px;
+    padding-top:8px;
+    padding-left:5px;
+}
+
+
+footer .box{
+clear:both;
+text-align:center;
+width:100%;
+line-height:40px;
+height:40px;
+left:0;
+bottom:0;
+color:white;
+background-color: black;
+}
+
